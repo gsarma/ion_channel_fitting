@@ -89,7 +89,6 @@ build/
 
 # Other simulation generated files
 *.pickle
-*.png
 *.xml
 
 
