@@ -92,8 +92,9 @@ build/
 *.png
 *.xml
 
-
-
-
-
-
+# Latex files
+*.out
+*.aux
+*.bbl
+*.synctex.gz
+*.blg
